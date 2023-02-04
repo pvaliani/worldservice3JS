@@ -1,0 +1,60 @@
+{
+    "data": {
+      "services": [
+        {
+          "afaanoromo": "https://www.bbc.com/afaanoromo"
+        },
+        {
+          "afrikaans": "https://www.bbc.com/afrikaans"
+        },
+        {
+          "amharic": "https://www.bbc.com/amharic"
+        },
+        {
+          "arabic": "https://www.bbc.com/arabic"
+        },
+        {
+          "azeri": "https://www.bbc.com/azeri"
+        },
+        {
+          "bengali": "https://www.bbc.com/bengali"
+        },
+        {
+          "burmese": "https://www.bbc.com/burmese"
+        },
+        {
+          "cantonese": "https://www.bbc.com/cantonese"
+        },
+        {
+          "hausa": "https://www.bbc.com/hausa"
+        },
+        {
+          "hindi": "https://www.bbc.com/hindi"
+        },
+        {
+          "igbo": "https://www.bbc.com/igbo"
+        },
+        {
+          "indonesian": "https://www.bbc.com/indonesian"
+        },
+        {
+          "kyrgyz": "https://www.bbc.com/kyrgyz"
+        },
+        {
+          "marathi": "https://www.bbc.com/marathi"
+        },
+        {
+          "mundo": "https://www.bbc.com/mundo"
+        },
+        {
+          "nepali": "https://www.bbc.com/nepali"
+        },
+        {
+          "persian": "https://www.bbc.com/persian"
+        },
+        {
+          "pidgin": "https://www.bbc.com/pidgin"
+        }
+      ]
+    }
+}
