@@ -34,7 +34,7 @@ const Earth = () => {
 
     const animate = () => {
       requestAnimationFrame(animate);
-      earthMesh.rotation.y += 0.005;
+      earthMesh.rotation.y += (2 * Math.PI) / ((24 * 60 * 60 * 1000) / 33);
       renderer.render(scene, camera);
     };
     animate();
