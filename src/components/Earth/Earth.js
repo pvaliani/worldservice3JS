@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 import * as THREE from "three";
-import world from "./8k_earth_nightmap.jpeg";
+import world from "../../8k_earth_nightmap.jpeg";
 
 const Earth = () => {
   const containerRef = useRef(null);
